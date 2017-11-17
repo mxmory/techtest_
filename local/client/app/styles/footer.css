@@ -1,0 +1,26 @@
+.footer {
+  color: #fff;
+
+
+  &__top {
+    background-color: #293449;
+    height: 195px;
+  }
+
+  &__bottom {
+    background-color: #32425c;
+    height: 105px;
+  }
+}
+
+.b-f-nav, .b-f-services {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.b-f-nav {
+  margin-bottom: 30px;
+}

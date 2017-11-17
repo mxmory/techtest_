@@ -1,0 +1,12 @@
+@custom-media --max1440 (max-width: 1440px);
+@custom-media --max1366 (max-width: 1366px);
+@custom-media --max1270 (max-width: 1270px);
+@custom-media --max1250 (max-width: 1250px);
+@custom-media --max1024 (max-width: 1024px);
+@custom-media --max768 (max-width: 768px);
+@custom-media --max375 (max-width: 375px);
+
+
+@custom-media --tabletLandscape (max-width: 1200px);
+@custom-media --tabletPortrait (max-width: 900px);
+@custom-media --phone (max-width: 600px);
